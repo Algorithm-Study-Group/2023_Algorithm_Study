@@ -2,8 +2,6 @@
 
 This repository contains learning materials on algorithms for coding tests.
 
----
-
 ## ⭐️ Members
 
 <table>
@@ -47,9 +45,10 @@ This repository contains learning materials on algorithms for coding tests.
      </td>
   </tr>
 </table>
-
----
+<br />
 
 ## 📆 목표
 - [프로그래머스 입문](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc&page=1) - 1~50 문제 (~2023.05.21)
 - [프로그래머스 입문](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc&page=1) - 51~100 문제 (~2023.05.28)
+
+<br />
