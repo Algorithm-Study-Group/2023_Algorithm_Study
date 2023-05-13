@@ -9,18 +9,25 @@
 |6 |[숫자 비교하기][#6]| lv. 0 | 2023.05.12 |
 |7 |[분수의 덧셈][#7]| lv. 0 | 2023.05.12 |
 |8 |[배열 두배 만들기][#8]| lv. 0 | 2023.05.12 |
-|9 |[나이 출력][#9]| lv. 0 | 2023.05.12 |
-|10 |[나머지 구하기][#10]| lv. 0 | 2023.05.12 |
-|11 |[중앙값 구하기][#11]| lv. 0 | 2023.05.12 |
-|12 |[최빈값 구하기][#12]| lv. 0 | 2023.05.13 |
-|13 |[짝수는 싫어요][#13]| lv. 0 | 2023.05.13 |
-|14 |[피자 나눠먹기 (1)][#14]| lv. 0 | 2023.05.13 |
-|15 |[피자 나눠먹기 (2)][#15]| lv. 0 | 2023.05.13 |
-|16 |[피자 나눠먹기 (3)][#16]| lv. 0 | 2023.05.13 |
-|17 |[배열의 평균값][#17]| lv. 0 | 2023.05.13 |
-|18 |[옷가게 할인 받기][#18]| lv. 0 | 2023.05.13 |
-|19 |[아이스 아메리카노][#19]| lv. 0 | 2023.05.13 |
+|9 |[나머지 구하기][#9]| lv. 0 | 2023.05.12 |
+|10 |[중앙값 구하기][#10]| lv. 0 | 2023.05.12 |
+|11 |[최빈값 구하기][#11]| lv. 0 | 2023.05.13 |
+|12 |[짝수는 싫어요][#12]| lv. 0 | 2023.05.13 |
+|13 |[피자 나눠먹기 (1)][#13]| lv. 0 | 2023.05.13 |
+|14 |[피자 나눠먹기 (2)][#14]| lv. 0 | 2023.05.13 |
+|15 |[피자 나눠먹기 (3)][#15]| lv. 0 | 2023.05.13 |
+|16 |[배열의 평균값][#16]| lv. 0 | 2023.05.13 |
+|17 |[옷가게 할인 받기][#17]| lv. 0 | 2023.05.13 |
+|18 |[아이스 아메리카노][#18]| lv. 0 | 2023.05.13 |
+|19 |[나이 출력][#19]| lv. 0 | 2023.05.12 |
 |20 |[배열 뒤집기][#20]| lv. 0 | 2023.05.13 |
+|21 |[문자열 뒤집기][#21]| lv. 0 | 2023.05.13 |
+|22 |[직각삼각형 출력하기][#22]| lv. 0 | 2023.05.13 |
+|23 |[짝수 혹수 개수][#23]| lv. 0 | 2023.05.13 |
+|24 | [문자 반복 출력하기][#24]| lv. 0 | 2023.05.13 |
+|25 | [특정 문자 제거하기][#25]| lv. 0 | 2023.05.13 |
+|26 | [각도기][#26]| lv. 0 | 2023.05.13 |
+|27 | [양꼬치][#27]| lv. 0 | 2023.05.13 |
 
 [#1]: https://school.programmers.co.kr/learn/courses/30/lessons/120802
 [#2]: https://school.programmers.co.kr/learn/courses/30/lessons/120803
@@ -30,15 +37,22 @@
 [#6]: https://school.programmers.co.kr/learn/courses/30/lessons/120807
 [#7]: https://school.programmers.co.kr/learn/courses/30/lessons/120808
 [#8]: https://school.programmers.co.kr/learn/courses/30/lessons/120809
-[#9]: https://school.programmers.co.kr/learn/courses/30/lessons/120820
-[#10]: https://school.programmers.co.kr/learn/courses/30/lessons/120810
-[#11]: https://school.programmers.co.kr/learn/courses/30/lessons/120811
-[#12]: https://school.programmers.co.kr/learn/courses/30/lessons/120812
-[#13]: https://school.programmers.co.kr/learn/courses/30/lessons/120813
-[#14]: https://school.programmers.co.kr/learn/courses/30/lessons/120814
-[#15]: https://school.programmers.co.kr/learn/courses/30/lessons/120815
-[#16]: https://school.programmers.co.kr/learn/courses/30/lessons/120816
-[#17]: https://school.programmers.co.kr/learn/courses/30/lessons/120817
-[#18]: https://school.programmers.co.kr/learn/courses/30/lessons/120818
-[#19]: https://school.programmers.co.kr/learn/courses/30/lessons/120819
-[#20]: https://school.programmers.co.kr/learn/courses/30/lessons/120820
+[#9]: https://school.programmers.co.kr/learn/courses/30/lessons/120810
+[#10]: https://school.programmers.co.kr/learn/courses/30/lessons/120811
+[#11]: https://school.programmers.co.kr/learn/courses/30/lessons/120812
+[#12]: https://school.programmers.co.kr/learn/courses/30/lessons/120813
+[#13]: https://school.programmers.co.kr/learn/courses/30/lessons/120814
+[#14]: https://school.programmers.co.kr/learn/courses/30/lessons/120815
+[#15]: https://school.programmers.co.kr/learn/courses/30/lessons/120816
+[#16]: https://school.programmers.co.kr/learn/courses/30/lessons/120817
+[#17]: https://school.programmers.co.kr/learn/courses/30/lessons/120818
+[#18]: https://school.programmers.co.kr/learn/courses/30/lessons/120819
+[#19]: https://school.programmers.co.kr/learn/courses/30/lessons/120820
+[#20]: https://school.programmers.co.kr/learn/courses/30/lessons/120821
+[#21]: https://school.programmers.co.kr/learn/courses/30/lessons/120822
+[#22]: https://school.programmers.co.kr/learn/courses/30/lessons/120823
+[#23]: https://school.programmers.co.kr/learn/courses/30/lessons/120824
+[#24]: https://school.programmers.co.kr/learn/courses/30/lessons/120825
+[#25]: https://school.programmers.co.kr/learn/courses/30/lessons/120826
+[#26]: https://school.programmers.co.kr/learn/courses/30/lessons/120829
+[#27]: https://school.programmers.co.kr/learn/courses/30/lessons/120830
