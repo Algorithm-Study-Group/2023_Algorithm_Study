@@ -14,6 +14,10 @@
 |[중앙값 구하기][#11]| lv. 0 | 2023.05.12 |
 |[최빈값 구하기][#12]| lv. 0 | 2023.05.13 |
 |[짝수는 싫어요][#13]| lv. 0 | 2023.05.13 |
+|[피자 나눠먹기 (1)][#14]| lv. 0 | 2023.05.13 |
+|[피자 나눠먹기 (2)][#15]| lv. 0 | 2023.05.13 |
+|[피자 나눠먹기 (3)][#16]| lv. 0 | 2023.05.13 |
+|[배열의 평균값][#17]| lv. 0 | 2023.05.13 |
 
 
 [#1]: https://school.programmers.co.kr/learn/courses/30/lessons/120802
@@ -29,3 +33,7 @@
 [#11]: https://school.programmers.co.kr/learn/courses/30/lessons/120811
 [#12]: https://school.programmers.co.kr/learn/courses/30/lessons/120812
 [#13]: https://school.programmers.co.kr/learn/courses/30/lessons/120813
+[#14]: https://school.programmers.co.kr/learn/courses/30/lessons/120814
+[#15]: https://school.programmers.co.kr/learn/courses/30/lessons/120815
+[#16]: https://school.programmers.co.kr/learn/courses/30/lessons/120816
+[#17]: https://school.programmers.co.kr/learn/courses/30/lessons/120817
