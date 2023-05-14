@@ -28,6 +28,11 @@
 |25 | [특정 문자 제거하기][#25]| lv. 0 | 2023.05.13 |
 |26 | [각도기][#26]| lv. 0 | 2023.05.13 |
 |27 | [양꼬치][#27]| lv. 0 | 2023.05.13 |
+|28 | [짝수의 합][#28]| lv. 0 | 2023.05.13 |
+|29 | [배열 자르기][#29]| lv. 0 | 2023.05.14 |
+|30 | [외계행성의 나이][#30]| lv. 0 | 2023.05.14 |
+|31 | [진료 순서 정하기][#31]| lv. 0 | 2023.05.14 |
+|32 | [순서쌍의 개수][#32]| lv. 0 | 2023.05.14 |
 
 [#1]: https://school.programmers.co.kr/learn/courses/30/lessons/120802
 [#2]: https://school.programmers.co.kr/learn/courses/30/lessons/120803
@@ -56,3 +61,8 @@
 [#25]: https://school.programmers.co.kr/learn/courses/30/lessons/120826
 [#26]: https://school.programmers.co.kr/learn/courses/30/lessons/120829
 [#27]: https://school.programmers.co.kr/learn/courses/30/lessons/120830
+[#28]: https://school.programmers.co.kr/learn/courses/30/lessons/120831
+[#29]: https://school.programmers.co.kr/learn/courses/30/lessons/120833
+[#30]: https://school.programmers.co.kr/learn/courses/30/lessons/120834
+[#31]: https://school.programmers.co.kr/learn/courses/30/lessons/120835
+[#32]: https://school.programmers.co.kr/learn/courses/30/lessons/120836
