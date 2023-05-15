@@ -40,6 +40,9 @@
 |37 | [점의 위치 구하기][#37]| lv. 0 | 2023.05.15 |
 |38 | [2차원으로 만들기][#38]| lv. 0 | 2023.05.15 |
 |39 | [공 던지기][#39]| lv. 0 | 2023.05.15 |
+|40 | [배열 회전시키기][#40]| lv. 0 | 2023.05.15 |
+|41 | [주사위의 개수][#41]| lv. 0 | 2023.05.15 |
+|42 | [합성수 찾기][#42]| lv. 0 | 2023.05.15 |
 
 [#1]: https://school.programmers.co.kr/learn/courses/30/lessons/120802
 [#2]: https://school.programmers.co.kr/learn/courses/30/lessons/120803
@@ -80,3 +83,6 @@
 [#37]: https://school.programmers.co.kr/learn/courses/30/lessons/120841
 [#38]: https://school.programmers.co.kr/learn/courses/30/lessons/120842
 [#39]: https://school.programmers.co.kr/learn/courses/30/lessons/120843
+[#40]: https://school.programmers.co.kr/learn/courses/30/lessons/120844
+[#41]: https://school.programmers.co.kr/learn/courses/30/lessons/120845
+[#42]: https://school.programmers.co.kr/learn/courses/30/lessons/120846
