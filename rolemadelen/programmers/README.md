@@ -37,7 +37,9 @@
 |34 | [모스부호 (1)][#34]| lv. 0 | 2023.05.14 |
 |35 | [가위바위보][#35]| lv. 0 | 2023.05.14 |
 |36 | [구슬을 나누는 경우의 수][#36]| lv. 0 | 2023.05.14 |
-
+|37 | [점의 위치 구하기][#37]| lv. 0 | 2023.05.15 |
+|38 | [2차원으로 만들기][#38]| lv. 0 | 2023.05.15 |
+|39 | [공 던지기][#39]| lv. 0 | 2023.05.15 |
 
 [#1]: https://school.programmers.co.kr/learn/courses/30/lessons/120802
 [#2]: https://school.programmers.co.kr/learn/courses/30/lessons/120803
@@ -75,3 +77,6 @@
 [#34]: https://school.programmers.co.kr/learn/courses/30/lessons/120838
 [#35]: https://school.programmers.co.kr/learn/courses/30/lessons/120839
 [#36]: https://school.programmers.co.kr/learn/courses/30/lessons/120840
+[#37]: https://school.programmers.co.kr/learn/courses/30/lessons/120841
+[#38]: https://school.programmers.co.kr/learn/courses/30/lessons/120842
+[#39]: https://school.programmers.co.kr/learn/courses/30/lessons/120843
