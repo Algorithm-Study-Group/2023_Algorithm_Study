@@ -48,6 +48,9 @@
 |45 | [모음 제거][#45]| lv. 0 | 2023.05.18 |
 |46 | [문자열 정렬하기 (1)][#46]| lv. 0 | 2023.05.18 |
 |47 | [숨어있는 숫자의 덧셈][#47]| lv. 0 | 2023.05.18 |
+|48 | [소인수분해][#48]| lv. 0 | 2023.05.19 |
+|49 | [컨트롤 제트][#49]| lv. 0 | 2023.05.19 |
+|50 | [배열의 원소의 길이][#50]| lv. 0 | 2023.05.19 |
 
 [#1]: https://school.programmers.co.kr/learn/courses/30/lessons/120802
 [#2]: https://school.programmers.co.kr/learn/courses/30/lessons/120803
@@ -96,3 +99,6 @@
 [#45]: https://school.programmers.co.kr/learn/courses/30/lessons/120849
 [#46]: https://school.programmers.co.kr/learn/courses/30/lessons/120850
 [#47]: https://school.programmers.co.kr/learn/courses/30/lessons/120851
+[#48]: https://school.programmers.co.kr/learn/courses/30/lessons/120852
+[#49]: https://school.programmers.co.kr/learn/courses/30/lessons/120853
+[#50]: https://school.programmers.co.kr/learn/courses/30/lessons/120854
