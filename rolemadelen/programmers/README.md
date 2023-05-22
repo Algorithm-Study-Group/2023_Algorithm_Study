@@ -51,6 +51,12 @@
 |48 | [소인수분해][#48]| lv. 0 | 2023.05.19 |
 |49 | [컨트롤 제트][#49]| lv. 0 | 2023.05.19 |
 |50 | [배열의 원소의 길이][#50]| lv. 0 | 2023.05.19 |
+|51 | [중복된 문자 제거][#51]| lv. 0 | 2023.05.22 |
+|52 | [삼각형의 완성조건 (1)][#52]| lv. 0 | 2023.05.22 |
+|53 | [가까운 수][#53]| lv. 0 | 2023.05.22 |
+|54 | [369게임][#54]| lv. 0 | 2023.05.22 |
+|55 | [암호 해독][#55]| lv. 0 | 2023.05.22 |
+|56 | [대문자와 소문자][#56]| lv. 0 | 2023.05.22 |
 
 [#1]: https://school.programmers.co.kr/learn/courses/30/lessons/120802
 [#2]: https://school.programmers.co.kr/learn/courses/30/lessons/120803
@@ -102,3 +108,9 @@
 [#48]: https://school.programmers.co.kr/learn/courses/30/lessons/120852
 [#49]: https://school.programmers.co.kr/learn/courses/30/lessons/120853
 [#50]: https://school.programmers.co.kr/learn/courses/30/lessons/120854
+[#51]: https://school.programmers.co.kr/learn/courses/30/lessons/120888
+[#52]: https://school.programmers.co.kr/learn/courses/30/lessons/120889
+[#53]: https://school.programmers.co.kr/learn/courses/30/lessons/120890
+[#54]: https://school.programmers.co.kr/learn/courses/30/lessons/120891
+[#55]: https://school.programmers.co.kr/learn/courses/30/lessons/120892
+[#56]: https://school.programmers.co.kr/learn/courses/30/lessons/120893
