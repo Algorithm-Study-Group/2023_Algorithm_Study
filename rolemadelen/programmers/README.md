@@ -43,6 +43,20 @@
 |40 | [배열 회전시키기][#40]| lv. 0 | 2023.05.15 |
 |41 | [주사위의 개수][#41]| lv. 0 | 2023.05.15 |
 |42 | [합성수 찾기][#42]| lv. 0 | 2023.05.15 |
+|43 | [최댓값 만들기 (1)][#43]| lv. 0 | 2023.05.18 |
+|44 | [팩토리얼][#44]| lv. 0 | 2023.05.18 |
+|45 | [모음 제거][#45]| lv. 0 | 2023.05.18 |
+|46 | [문자열 정렬하기 (1)][#46]| lv. 0 | 2023.05.18 |
+|47 | [숨어있는 숫자의 덧셈][#47]| lv. 0 | 2023.05.18 |
+|48 | [소인수분해][#48]| lv. 0 | 2023.05.19 |
+|49 | [컨트롤 제트][#49]| lv. 0 | 2023.05.19 |
+|50 | [배열의 원소의 길이][#50]| lv. 0 | 2023.05.19 |
+|51 | [중복된 문자 제거][#51]| lv. 0 | 2023.05.22 |
+|52 | [삼각형의 완성조건 (1)][#52]| lv. 0 | 2023.05.22 |
+|53 | [가까운 수][#53]| lv. 0 | 2023.05.22 |
+|54 | [369게임][#54]| lv. 0 | 2023.05.22 |
+|55 | [암호 해독][#55]| lv. 0 | 2023.05.22 |
+|56 | [대문자와 소문자][#56]| lv. 0 | 2023.05.22 |
 
 [#1]: https://school.programmers.co.kr/learn/courses/30/lessons/120802
 [#2]: https://school.programmers.co.kr/learn/courses/30/lessons/120803
@@ -86,3 +100,17 @@
 [#40]: https://school.programmers.co.kr/learn/courses/30/lessons/120844
 [#41]: https://school.programmers.co.kr/learn/courses/30/lessons/120845
 [#42]: https://school.programmers.co.kr/learn/courses/30/lessons/120846
+[#43]: https://school.programmers.co.kr/learn/courses/30/lessons/120847
+[#44]: https://school.programmers.co.kr/learn/courses/30/lessons/120848
+[#45]: https://school.programmers.co.kr/learn/courses/30/lessons/120849
+[#46]: https://school.programmers.co.kr/learn/courses/30/lessons/120850
+[#47]: https://school.programmers.co.kr/learn/courses/30/lessons/120851
+[#48]: https://school.programmers.co.kr/learn/courses/30/lessons/120852
+[#49]: https://school.programmers.co.kr/learn/courses/30/lessons/120853
+[#50]: https://school.programmers.co.kr/learn/courses/30/lessons/120854
+[#51]: https://school.programmers.co.kr/learn/courses/30/lessons/120888
+[#52]: https://school.programmers.co.kr/learn/courses/30/lessons/120889
+[#53]: https://school.programmers.co.kr/learn/courses/30/lessons/120890
+[#54]: https://school.programmers.co.kr/learn/courses/30/lessons/120891
+[#55]: https://school.programmers.co.kr/learn/courses/30/lessons/120892
+[#56]: https://school.programmers.co.kr/learn/courses/30/lessons/120893
