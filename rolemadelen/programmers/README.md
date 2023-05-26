@@ -57,6 +57,15 @@
 |54 | [369게임][#54]| lv. 0 | 2023.05.22 |
 |55 | [암호 해독][#55]| lv. 0 | 2023.05.22 |
 |56 | [대문자와 소문자][#56]| lv. 0 | 2023.05.22 |
+|57 | [영어가 싫어요][#57]| lv. 0 | 2023.05.23 |
+|58 | [인덱스 바꾸기][#58]| lv. 0 | 2023.05.23 |
+|59 | [한 번만 등장한 문자][#59]| lv. 0 | 2023.05.23 |
+|60 | [약수 구하기][#60]| lv. 0 | 2023.05.23 |
+|61 | [편지][#61]| lv. 0 | 2023.05.23 |
+|62 | [가장 큰 수 찾기][#62]| lv. 0 | 2023.05.23 |
+|63 | [문자열 계산하기][#63]| lv. 0 | 2023.05.26 |
+|64 | [배열의 유사도][#64]| lv. 0 | 2023.05.26 |
+|65 | [숫자 찾기][#65]| lv. 0 | 2023.05.26 |
 
 [#1]: https://school.programmers.co.kr/learn/courses/30/lessons/120802
 [#2]: https://school.programmers.co.kr/learn/courses/30/lessons/120803
@@ -114,3 +123,12 @@
 [#54]: https://school.programmers.co.kr/learn/courses/30/lessons/120891
 [#55]: https://school.programmers.co.kr/learn/courses/30/lessons/120892
 [#56]: https://school.programmers.co.kr/learn/courses/30/lessons/120893
+[#57]: https://school.programmers.co.kr/learn/courses/30/lessons/120894
+[#58]: https://school.programmers.co.kr/learn/courses/30/lessons/120895
+[#59]: https://school.programmers.co.kr/learn/courses/30/lessons/120896
+[#60]: https://school.programmers.co.kr/learn/courses/30/lessons/120897
+[#61]: https://school.programmers.co.kr/learn/courses/30/lessons/120898
+[#62]: https://school.programmers.co.kr/learn/courses/30/lessons/120899
+[#63]: https://school.programmers.co.kr/learn/courses/30/lessons/120902
+[#64]: https://school.programmers.co.kr/learn/courses/30/lessons/120903
+[#65]: https://school.programmers.co.kr/learn/courses/30/lessons/120904
