@@ -21,7 +21,7 @@ This repository contains learning materials on algorithms for coding tests.
      </a>
      </td>
    <td align="center">
-      <a href="https://github.com/chaeondev">
+      <a href="https://github.com/haeseung123">    
        <img src="https://avatars.githubusercontent.com/u/106800437?v=4" width="100px;" alt=""/>
        <br />
      @haeseung123
