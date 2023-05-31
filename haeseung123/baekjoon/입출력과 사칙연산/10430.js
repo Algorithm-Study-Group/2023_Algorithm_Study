@@ -1,5 +1,5 @@
 let fs = require('fs')
-let input = fs.readFileSync('예제.txt').toString().split(' ').map(x => Number(x))
+let input = fs.readFileSync('/dev/stdin').toString().split(' ').map(x => Number(x))
 
 let [A, B, C] = input 
 
