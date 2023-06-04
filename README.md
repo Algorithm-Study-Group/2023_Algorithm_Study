@@ -64,7 +64,7 @@ This repository contains learning materials on algorithms for coding tests.
 | 단계 | 제목 | 총 문제 | Due |
 |:----|:----|:----|:--------|
 | 1   | 입출력과 사칙연산 | 13 | 2023.06.04 |
-| 2   | 조건문 | 7 | TBD |
+| 2   | 조건문 | 7 | 2023.06.04 |
 | 3   | 반복문 | 12 | TBD |
 | 4   | 1차원 배열 | 10 | TBD |
 | 5   | 문자열 | 11 | TBD |
