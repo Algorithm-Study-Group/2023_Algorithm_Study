@@ -11,7 +11,9 @@ This repository contains learning materials on algorithms for coding tests.
        <img src="https://avatars.githubusercontent.com/u/101682300?v=4" width="100px;" alt=""/>
        <br />
       @rolemadelen
+      <br />
      </a>
+     <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
     </td>
    <td align="center">
       <a href="https://github.com/chaeondev">
@@ -19,12 +21,16 @@ This repository contains learning materials on algorithms for coding tests.
        <br />
      @chaeondev
      </a>
+     <br />
+     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
      </td>
    <td align="center">
       <a href="https://github.com/haeseung123">    
        <img src="https://avatars.githubusercontent.com/u/106800437?v=4" width="100px;" alt=""/>
        <br />
      @haeseung123
+     <br />
+     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
      </a>
      </td>
   </tr>
@@ -35,6 +41,8 @@ This repository contains learning materials on algorithms for coding tests.
        <br />
      @xyident
      </a>
+     <br />
+     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
      </td>
    <td align="center">
       <a href="https://github.com/GamSoJJi">
@@ -42,6 +50,8 @@ This repository contains learning materials on algorithms for coding tests.
        <br />
       @GamSoJJi
      </a>
+     <br />
+     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
     </td>
    <td align="center">
       <a href="https://github.com/simsu">
@@ -49,6 +59,8 @@ This repository contains learning materials on algorithms for coding tests.
        <br />
      @simsu
      </a>
+     <br />
+     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
      </td>
   </tr>
 </table>
