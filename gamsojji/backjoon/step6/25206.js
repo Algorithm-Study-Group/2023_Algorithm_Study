@@ -1,16 +1,17 @@
 let fs = require("fs");
 const filePath = process.platform === 'linux' ? "/dev/stdin" : `${__dirname}/input.txt`;
 let input = fs.readFileSync(filePath).toString().trim().split("\n");
-let credit = [];
-credit["A+"] = 4.5; 
-credit["A0"] = 4.0; 
-credit["B+"] = 3.5; 
-credit["B0"] = 3.0; 
-credit["C+"] = 2.5; 
-credit["C0"] = 2.0; 
-credit["D+"] = 1.5; 
-credit["D0"] = 1.0; 
-credit["F"] = 0.0; 
+let credit = {
+    "A+": 4.5, 
+    "A0": 4.0, 
+    "B+": 3.5, 
+    "B0": 3.0, 
+    "C+": 2.5, 
+    "C0": 2.0, 
+    "D+": 1.5, 
+    "D0": 1.0, 
+    "F": 0.0, 
+}
 let tot = 0;
 let arr = []
 input.forEach(sub => {
